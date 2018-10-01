@@ -17,5 +17,6 @@ WIN_COMBINATIONS = [
   ]
   
 def won?(board)
+  WIN_COMBINATIONS each.do |
 if board[WIN_COMBINATIONS[0]] == 
 end
