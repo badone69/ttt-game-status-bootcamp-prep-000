@@ -17,5 +17,5 @@ WIN_COMBINATIONS = [
   ]
   
 def won?(board)
-WIN
+if board[WIN_COMBINATIONS[0]] == 
 end
