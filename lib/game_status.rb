@@ -18,5 +18,5 @@ WIN_COMBINATIONS = [
   
 def won?(board)
   WIN_COMBINATIONS each.do |win_combination|
-if board[WIN_COMBINATIONS[0]] == 
+    if board[WIN_COMBINATIONS[0]] == 
 end
